@@ -16,6 +16,11 @@
       "file": "control-commands.md"
     },
     {
+      "id": "uploading-troubleshooting-kml-physical-rig",
+      "title": "Uploading and Troubleshooting KML Files on a Physical Liquid Galaxy Rig",
+      "file": "kml-upload-and-common-pitfalls.md"
+    },
+    {
       "id": "questions-and-answers-from-the-discord",
       "title": "Questions and Answers from the Discord:",
       "file": "questions-and-answers-from-the-discord.md"
